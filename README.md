@@ -1,1 +1,1 @@
-
+# Decentralized Blog App.
